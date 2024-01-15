@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# COVID 19 ANALYSIS
 
 ## Project/Goals
 The general goal of this project is to collaborate with classmates on github and apply all the skills that have been aquired throughout the course till now including:
